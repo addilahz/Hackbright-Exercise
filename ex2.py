@@ -1,0 +1,5 @@
+print "Hello! My name is Addilah"
+print "I love programming and eating veggies"
+print "I also want to learn to use SLR camera under 'manual' mode"
+print "My husband and I enjoyed outdoor activity"
+print "My favorite state parks is Yosemite"

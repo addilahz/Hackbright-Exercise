@@ -26,7 +26,7 @@ def doorA ():
 	print "Hooray! Your found the treasure!"
 
 def doorB ():
-	print "You are standing in front of two door again. Please choose Door D or E. Be very sure with your choice!"
+	print "You are standing in front of two door again. Please choose Door D or E"
 	door = raw_input()
 	door = door.upper()
 	if door == "D":
@@ -72,7 +72,7 @@ def doorE ():
 
 
 def stairs ():
-	print " uh oh, it's block by the wall. You have no choice but to turn around"
+	print "uh oh, it's block by the wall and you are trapped! Sorry, Game Over!"
 
 
 

@@ -4,7 +4,7 @@ def intro ():
 	#print introductions - going in a castle
 	print "Going inside the castle to find treasure. You stand in front of two doors. Please choose and proceeds at your own risk"
 	#decide - choose a door A B
-	print "Door A, Door B or Door C" 
+	print "Door A or Door B " 
 	#users need to enter A or B in the terminal
 	door = raw_input()
 	#regardless what user enter (e.g. lowercase) convert letter to uppercase letter
@@ -72,7 +72,7 @@ def doorE ():
 
 
 def stairs ():
-	print "uh oh, it's block by the wall and you are trapped! Sorry, Game Over!"
+	print "uh oh, while climbing the stairs you fell into the hole and get thrown outside the castle. Sorry, Game Over!"
 
 
 
